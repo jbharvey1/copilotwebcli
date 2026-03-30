@@ -1,5 +1,7 @@
 # copilot-cli
 
+[![Follow on X](https://img.shields.io/badge/follow-%40boschzilla-black.svg?logo=x)](https://x.com/boschzilla)
+
 A command-line tool to send prompts to Microsoft 365 Copilot and stream the response back to your terminal, using browser automation via Playwright.
 
 ## How it works
